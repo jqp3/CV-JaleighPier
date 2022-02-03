@@ -11,11 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r, fig.align = "center", out.width = "10%", eval=TRUE, echo=FALSE}
-knitr::include_graphics("C:/Users/Jalei/OneDrive/Documents/Professional Development/Professional Photos/Pier.Jaleigh3.jpg")
+knitr::include_graphics("https://www.eas.cornell.edu/sites/default/files/styles/width_360/public/departments/EAS/Pier.Jaleigh1%20copy.jpg?itok=SpW102Rc")
 ```
 
   
-  
+
   <center> <font size="6"><span style="color:purple">**Jaleigh Q. Pier**</span></font>  </center>
 
   <center> Cornell University, Ithaca, NY 14850 </center>
