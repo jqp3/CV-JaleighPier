@@ -1,5 +1,5 @@
 ---
-output: github_document
+output: html_document
 github: jqp3
 fontawesome: yes
 
