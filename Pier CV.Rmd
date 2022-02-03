@@ -1,29 +1,54 @@
 ---
-title: "Pier CV"
-author: "Jaleigh Pier"
 output: html_document
+github: jqp3
+fontawesome: yes
+
+fontfamily: mathpazo
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+```{r, fig.align = "center", out.width = "10%", eval=TRUE, echo=FALSE}
+knitr::include_graphics("C:/Users/Jalei/OneDrive/Documents/Professional Development/Professional Photos/Pier.Jaleigh3.jpg")
 ```
 
-## Including Plots
+  
+  
+  <center> <font size="6"><span style="color:purple">**Jaleigh Q. Pier**</span></font>  </center>
 
-You can also embed plots, for example:
+  <center> Cornell University, Ithaca, NY 14850 </center>
+  <center> jqp3@cornell.edu </center>
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+---------------------------------------------------------------------------------------------------------------
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### Education
+* Cornell University, PhD anticipated 2025
+* University of Connecticut, MS Ecology and Evolutionary Biology 2018
+* St. Lawrence University, BS Geology, Biology 2016
+
+<br> 
+
+### Profesional Experience
+* **Intern Supervisor:** Training and supervising two undergraduate students in the labs at the Paleontological Research Institution in Ithaca, NY on a project looking at bioerosion traces in oyster shells to see if they correlate with changes in salinity. (January 2021-April 2021)
+
+<br>
+
+### Leadership Involvememt
+* **IDEEAS Conflict Resolution Action Team:** A subset of IDEEAS members with the goal of providing a training or workshop on conflict resolution skills for the department to help foster conversations and have productive meetings to create deliverables/policy change for the department. (Fall 2021-Present)
+
+<br>
+
+### Science Oytreach Mentoring
+* **Museum Exhibit:** The design and co-creation of graphics and video for a temporary exhibit, Conservation Paleobiology: Behind the scenes research at PRI, for Museum of the Earth, Ithaca NY. The exhibit highlights the Historical Oyster Body Size Project and is being used to conduct survey research. (Sept 2020-Present)
+
+<br>
+
+#Teaching
+* **Teaching Assistant:** Intro Oceanography Weekly Questions TA, I manage the organization of weekly homework responses and grading by undergraduate TAs for a course of ~1,100 students. (Fall 2021)
+
+<br>
+
+### Publications
+* **Pier, J.Q.**, Brisson, S.K., Beard, J.A., Hren, M.T., and Bush, A.M. (2021). Accelerated mass extinction in an isolated biota during Late Devonian climate changes. Scientific Reports: 11, 24366. 10.1038/s41598-021-03510-6.
