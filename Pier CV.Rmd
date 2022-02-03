@@ -40,7 +40,7 @@ knitr::include_graphics("https://www.eas.cornell.edu/sites/default/files/styles/
 
 <br>
 
-### Science Oytreach Mentoring
+### Science Outreach Mentoring
 * **Museum Exhibit:** The design and co-creation of graphics and video for a temporary exhibit, Conservation Paleobiology: Behind the scenes research at PRI, for Museum of the Earth, Ithaca NY. The exhibit highlights the Historical Oyster Body Size Project and is being used to conduct survey research. (Sept 2020-Present)
 
 <br>
