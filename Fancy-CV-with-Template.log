@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.27)  3 FEB 2022 13:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.2.3)  3 FEB 2022 13:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -107,32 +107,50 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+pplj on input line 112.
 (c:/Users/Jalei/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/t1pplj.fd
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
+)) (c:/Users/Jalei/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+) (c:/Users/Jalei/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(c:/Users/Jalei/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+) (c:/Users/Jalei/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-! Font T1/pplj/m/n/10.95=pplr9d at 10.95pt not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   relax 
-l.112 ...\familydefault\seriesdefault\shapedefault
-                                                   
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks25
+)
+
+! LaTeX Error: File `sectsty.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.50 \sectionfont
+                 {\rmfamily\mdseries\large\bf}^^M 
 Here is how much of TeX's memory you used:
- 1876 strings out of 480247
- 25068 string characters out of 5894228
- 302128 words of memory out of 5000000
- 19864 multiletter control sequences out of 15000+600000
- 469559 words of font info for 29 fonts, out of 8000000 for 9000
+ 2460 strings out of 480247
+ 34929 string characters out of 5894475
+ 315330 words of memory out of 5000000
+ 20433 multiletter control sequences out of 15000+600000
+ 471273 words of font info for 30 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 54i,0n,62p,247b,84s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,0n,62p,247b,85s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
-
-! name = pplr9d, rootname = pplr9d, pointsize = 
-! mktexmf: empty or non-existent rootfile!
-
-! kpathsea: Running mktexmf pplr9d.mf
-
-! The command name is C:\Users\Jalei\AppData\Roaming\TinyTeX\bin\win32\mktexmf
-! Cannot find pplr9d.mf.
-
-! kpathsea: Running mktextfm pplr9d
-
-! The command name is C:\Users\Jalei\AppData\Roaming\TinyTeX\bin\win32\mktextfm
-! kpathsea: Appending font creation commands to missfont.log.
