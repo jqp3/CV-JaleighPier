@@ -45,7 +45,7 @@ knitr::include_graphics("https://www.eas.cornell.edu/sites/default/files/styles/
 
 <br>
 
-#Teaching
+### Teaching
 * **Teaching Assistant:** Intro Oceanography Weekly Questions TA, I manage the organization of weekly homework responses and grading by undergraduate TAs for a course of ~1,100 students. (Fall 2021)
 
 <br>
